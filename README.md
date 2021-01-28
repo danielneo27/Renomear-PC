@@ -1,5 +1,5 @@
 # Renomear-PC
-#### *Renomear Computador Windows por script*
+#### *Renomear Computador por script*
 
 - Antes de executar, deve editar o campo com o novo nome da máquina.
 
@@ -10,3 +10,5 @@
 - Agora para executar botão direito do mouse sobre o script, "Executar com o Powershell".
 
 - Assim que Renomear a maquina o PC será Reiniciado Automaticamente.
+
+Testado em Windows 10 e 8.
