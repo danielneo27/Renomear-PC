@@ -1,5 +1,5 @@
 # Renomear-PC
-#### *Renomear Computador por script*
+#### *Renomear Computador Windows por script*
 
 - Antes de executar, deve editar o campo com o novo nome da máquina.
 
